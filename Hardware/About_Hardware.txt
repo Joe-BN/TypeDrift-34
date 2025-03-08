@@ -1,0 +1,3 @@
+This folder will contain all the 3d files need to produce your own board.
+
+Feel free to tweek them to suit things like size, staggering and battery enclosure.

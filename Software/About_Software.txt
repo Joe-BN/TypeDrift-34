@@ -1,0 +1,4 @@
+This folder contains all the code and instructions necessary to power up the board and get it up and running.
+
+The files will be clearly highlighted based on functionality and code made as readable as can be.
+Will also include images of the board and possible schematics to understand what the code does on the board.
