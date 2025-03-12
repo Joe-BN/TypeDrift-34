@@ -18,6 +18,6 @@ Features to include:
 ### How Does it Work?
 The esp-32 c3 (microcontroller of choice) is on each half
 
-The two halves will communicate via ESP-NOW protocal when wireless (though there's plans to add an option to run wired with C-cable)
+The two halves will communicate via ESP-NOW protocal when wireless
 
 The rechargable cell will be 1050mAh (from Nokia); it's charge is checked and also put to sleep when inactive to preserve charge
