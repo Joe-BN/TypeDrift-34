@@ -7,17 +7,24 @@ Join me as we dive into the rabbit hole that is the custom keyboard and fish out
 Features to include:
 - Hardware:
   - [ ] Split with tenting
+  - [ ] Type-C connection (to computer and between)
 - Electrical:
   - [ ] Wireless and wired capabilities (type-C)
   - [ ] Rechargable Batteries
+  - [ ] Small O-Led screen (layer monitoring and custom graphics)
 - Software
-  - [ ] Interchangable master and slave
-  - [ ] Sleep when inactive
-
+  - [ ] Sleep when inactive (power saving)
+  - [ ] disconnect battery when in wired mode
+  
 
 ### How Does it Work?
-The esp-32 c3 (microcontroller of choice) is on each half
+The esp-32 c3 (my microcontroller of choice) is on each half
 
 The two halves will communicate via ESP-NOW protocal when wireless
 
 The rechargable cell will be 1050mAh (from Nokia); it's charge is checked and also put to sleep when inactive to preserve charge
+
+
+
+
+Grandted mainstream firmwares lack support for the esp32, I will be writing custom firmware for the project (making it as simple and readable as possible)
