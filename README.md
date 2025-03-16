@@ -4,17 +4,6 @@ This project is inspired by the thirst to learn how to build things. Inspiration
 
 Join me as we dive into the rabbit hole that is the custom keyboard and fish out the knowledge one gets by doing it all. In the project I plan to docuument every step and feature the best I could.
 
-Features to include:
-- Hardware:
-  - [ ] Split with tenting
-  - [ ] Type-C connection (to computer and between)
-- Electrical:
-  - [ ] Wireless and wired capabilities (type-C)
-  - [ ] Rechargable Batteries
-  - [ ] Small O-Led screen (layer monitoring and custom graphics)
-- Software
-  - [ ] Sleep when inactive (power saving)
-  - [ ] disconnect battery when in wired mode
   
 
 ### How Does it Work?
