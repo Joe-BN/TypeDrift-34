@@ -1,8 +1,8 @@
-# TypeDrift-36
+# TypeDrift
 
 ( *I'll add an image once done* )
 
-A custom 36 key split keyboard heavily inspired by the [chocofi](https://github.com/pashutk/chocofi) designwise but runs off of the Esp32-C3 microcontroller
+A custom 36-key split keyboard heavily inspired by the [chocofi](https://github.com/pashutk/chocofi) designwise but runs off of the Esp32-C3 microcontroller
 <br>;(3x5+3)
 
 The decision to use the Esp32-C3 is because I can utilize the power of the Esp-NOW protocal at a cheap price.
@@ -12,7 +12,6 @@ However, mainstream firmwares ( to my knowledge at the time of starting this pro
 So ... I'll build **my own**, ground-up.
 <br>
 How hard can it really be ?
-
 <br>
 <br>
 <br>
