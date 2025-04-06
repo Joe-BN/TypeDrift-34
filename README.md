@@ -1,19 +1,24 @@
-# Type-Drift
+# TypeDrift-36
 
-This project is inspired by the thirst to learn how to build things. Inspiration was derived from the wonderful community that is [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/)
+( *I'll add an image once done* )
 
-Join me as we dive into the rabbit hole that is the custom keyboard and fish out the knowledge one gets by doing it all. In the project I plan to docuument every step and feature the best I could.
+A custom 36 key split keyboard heavily inspired by the [chocofi](https://github.com/pashutk/chocofi) designwise but runs off of the Esp32-C3 microcontroller
+<br>;(3x5+3)
 
-  
+The decision to use the Esp32-C3 is because I can utilize the power of the Esp-NOW protocal at a cheap price.
+<br>
+However, mainstream firmwares ( to my knowledge at the time of starting this project) have little to no support for this platform and available firmware is either out of date or really limited in functionality. 
 
-### How Does it Work?
-The esp-32 c3 (my microcontroller of choice) is on each half
+So ... I'll build **my own**, ground-up.
+<br>
+How hard can it really be ?
 
-The two halves will communicate via ESP-NOW protocal when wireless
+<br>
+<br>
+<br>
+I plan to document the code and thought processes as best I can.
 
-The rechargable cell will be 1050mAh (from Nokia); it's charge is checked and also put to sleep when inactive to preserve charge
-
-
-
-
-Grandted mainstream firmwares lack support for the esp32, I will be writing custom firmware for the project (making it as simple and readable as possible)
+Feel free to use and modify the  files and programs that will be here.
+<br>
+<br>
+A shoutout to the [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/) sub-reddit, check them out for more inspiration and a look into what others are doing
