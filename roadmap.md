@@ -1,12 +1,13 @@
 ## RoadMap for TypeDrift-34
 
 - Hardware:
-  - [ ] Split with tenting
-  - [ ] Type-C connection (to computer and between)
+  - [ ] split with detatchable tenting
+  - [ ] type-C connection (to computer, charger and between)
 - Electrical:
-  - [ ] Wireless and wired capabilities (type-C)
-  - [ ] Rechargable Batteries
-  - [ ] Small O-Led screen (layer monitoring and custom graphics)
+  - [ ] wireless and wired capabilities (type-C)
+  - [ ] rechargable Batteries
+  - [ ] small O-Led screen (layer monitoring and custom graphics)
 - Software
-  - [ ] Sleep when inactive (power saving)
+  - [ ] sleep when inactive (power efficiency)
   - [ ] disconnect battery when in wired mode
+  - [ ] easy to use keymapper
