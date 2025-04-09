@@ -2,8 +2,8 @@
 
 ( *I'll add an image once done* )
 
-A custom 34-key split keyboard heavily inspired by the [chocofi](https://github.com/pashutk/chocofi) designwise but runs off of the Esp32-C3 microcontroller
-<br>;(3x5+2)
+A 34-key keyboard running on the Esp32-C3 microcontroller
+<br> ( 3 x 5 + 2 )
 
 The decision to use the Esp32-C3 is because I can utilize the power of the Esp-NOW protocal at a cheap price.
 <br>
