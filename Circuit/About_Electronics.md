@@ -1,5 +1,5 @@
 ## Circuit ⚡
-This folder contains the **Circuit** files for the keyboad in this project and even some *[images](Joe-BN/TypeDrift-34/Circuit/docs/images)* and *[videos](Joe-BN/TypeDrift-34/Circuit/docs/videos)* taken in the process of designing and making the circuitry.
+This folder contains the **Circuit** files for the keyboad in this project and even some *[pictures](Joe-BN/TypeDrift-34/Circuit/images)* taken in the process of designing and making the circuitry.
 
 I decided I want to experience both hand wiring and pcb design.
 <br>
